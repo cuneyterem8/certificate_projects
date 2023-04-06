@@ -13,7 +13,7 @@ Part 6 - Reinforcement Learning: Upper Confidence Bound, Thompson Sampling \
 Part 7 - Natural Language Processing: Bag-of-words model and algorithms for NLP \
 Part 8 - Deep Learning: Artificial Neural Networks, Convolutional Neural Networks \
 Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCA \
-Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost \
+Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
 
 <img src="https://github.com/cuneyterem8/certificate_projects/blob/main/machine_learning_sds_udemy/ml_udemy.jpg?raw=true" width="80%" height="80%">
 
@@ -24,6 +24,6 @@ Neural Networks and Deep Learning in Python Coursera
 1- Introduction to Deep Learning: covers the analysis of the significant trends that lead to the growth of deep learning and provides examples of its current applications. \
 2- Neural Networks Basics: teaches students how to approach a machine learning problem with a neural network perspective and how to use vectorization to accelerate their models. \
 3- Shallow Neural Networks: guides students in building a neural network with one hidden layer using forward propagation and backpropagation. \
-4- Deep Neural Networks: focuses on understanding the crucial computations that support deep learning, and how to use them to create and train deep neural networks for computer vision tasks. \
+4- Deep Neural Networks: focuses on understanding the crucial computations that support deep learning, and how to use them to create and train deep neural networks for computer vision tasks.
 
 <img src="https://github.com/cuneyterem8/certificate_projects/blob/main/neural_networks_deep_learning_dai_coursera/dl1_coursera.png?raw=true" width="80%" height="80%">
