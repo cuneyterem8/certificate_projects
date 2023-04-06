@@ -1,6 +1,6 @@
 # certificate_projects
 
-[Machine Learning A-Z in Python Udemy](https://github.com/cuneyterem8/certificate_projects/tree/main/machine_learning_sds_udemy)
+[Machine Learning A-Z](https://github.com/cuneyterem8/certificate_projects/tree/main/machine_learning_sds_udemy) in Python Udemy
 
 A Data Scientist and a Machine Learning expert have collaborated to create this course with the intention of simplifying complex theory, algorithms, and coding libraries and sharing their knowledge with learners. The course has gained the trust of over 900,000 students worldwide. The course is designed to guide learners step-by-step into the world of Machine Learning, allowing them to develop new skills and improve their understanding of this challenging but rewarding sub-field of Data Science. Learners can choose to complete the course by either following the Python tutorials, R tutorials, or both, based on their career requirements. While being engaging and entertaining, the course delves deep into Machine Learning. It follows a structured format:
 
