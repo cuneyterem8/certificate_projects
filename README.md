@@ -17,7 +17,7 @@ Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning,
 
 <img src="https://github.com/cuneyterem8/certificate_projects/blob/main/machine_learning_sds_udemy/ml_udemy.jpg?raw=true" width="80%" height="80%">
 
-[Neural Networks and Deep Learning in Python Coursera](https://github.com/cuneyterem8/certificate_projects/tree/main/neural_networks_deep_learning_dai_coursera)
+[Neural Networks and Deep Learning](https://github.com/cuneyterem8/certificate_projects/tree/main/neural_networks_deep_learning_dai_coursera) in Python Coursera
 
 1,048,907 recent views. The first course in the Deep Learning Specialization teaches students about the basic concepts of neural networks and deep learning. By the end of the course, students will have gained knowledge about the significant technological trends driving the rise of deep learning, the ability to build, train, and apply fully connected deep neural networks, implement efficient neural networks, identify key parameters in a neural network's architecture, and apply deep learning to their own applications. The Deep Learning Specialization is a foundational program that aims to provide students with the knowledge and skills necessary to participate in the development of leading-edge AI technology. It helps students understand the capabilities, challenges, and consequences of deep learning, and prepares them to apply machine learning to their work, advance their technical career, and take a significant step into the world of AI.
 
